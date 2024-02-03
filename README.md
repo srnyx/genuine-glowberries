@@ -8,7 +8,7 @@ Configure specific materials to give players specific effects when consuming the
 
 ## Download
 
-**✅ Stable:** You can download the latest **stable** version at [Modrinth](https://modrinth.com/plugin/majestic-materials), [Hangar](https://hangar.papermc.io/srnyx/MajesticMaterials), [Spigot](https://spigotmc.org/resources/######), [Bukkit](https://dev.bukkit.org/projects/majestic-materials), or [GitHub](https://github.com/srnyx/majestic-materials/releases)
+**✅ Stable:** You can download the latest **stable** version at [Modrinth](https://modrinth.com/plugin/majestic-materials), [Hangar](https://hangar.papermc.io/srnyx/MajesticMaterials), [Spigot](https://spigotmc.org/resources/114887), [Bukkit](https://dev.bukkit.org/projects/majestic-materials), or [GitHub](https://github.com/srnyx/majestic-materials/releases)
 
 **🚧 Snapshot:** You can download the latest **snapshot** version at [actions/workflows/build.yml](https://github.com/srnyx/majestic-materials/actions/workflows/build.yml)
 
