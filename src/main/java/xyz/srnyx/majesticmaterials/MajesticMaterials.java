@@ -23,7 +23,7 @@ public class MajesticMaterials extends AnnoyingPlugin {
                 .pluginOptions(pluginOptions -> pluginOptions.updatePlatforms(
                         PluginPlatform.modrinth("majestic-materials"),
                         PluginPlatform.hangar(this, "srnyx"),
-                        PluginPlatform.spigot("123456")))
+                        PluginPlatform.spigot("114887")))
                 .bStatsOptions(bStats -> bStats.id(20888))
                 .registrationOptions.toRegister(this,
                         PlayerListener.class,
