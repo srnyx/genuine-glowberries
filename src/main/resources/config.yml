@@ -1,0 +1,14 @@
+DOCUMENTATION: https://annoying-api.srnyx.com/wiki/File-objects
+
+
+# See the DOCUMENTATION for more information
+materials:
+  APPLE:
+    type: SPEED
+    duration: 300
+    amplifier: 4
+    ambient: false
+    particles: false
+  BREAD:
+    type: SPEED
+    duration: 300
