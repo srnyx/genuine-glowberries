@@ -8,5 +8,5 @@ plugins {
     id("com.github.johnrengelman.shadow") version "8.1.1"
 }
 
-setupAnnoyingAPI("8469d47bd7", "xyz.srnyx", "0.0.1", "Configure specific materials to give players specific effects when consuming them")
+setupAnnoyingAPI("8469d47bd7", "xyz.srnyx", "1.0.0", "Configure specific materials to give players specific effects when consuming them")
 spigotAPI("1.8.8")
